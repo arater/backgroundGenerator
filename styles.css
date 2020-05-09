@@ -1,0 +1,23 @@
+h1 {
+	display:flex;
+	border: 2px solid black;
+	justify-content: center;
+	margin-top: 60px;
+
+}
+
+h3 {
+	display:flex;
+	justify-content: center;
+	margin-top: 60px;
+}
+
+.colorsDiv {
+	display:flex;
+	justify-content: center;
+	margin-top: 60px;
+}
+
+body {
+	background: linear-gradient(to right, red, green);
+}
